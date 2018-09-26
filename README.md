@@ -15,5 +15,8 @@ Context Menu for OneDrive to upload  folder in any place
 6. 安装完成
 
 注：运行时mklink命令会有要求管理员权限
+
 注：运行时有cmd窗口闪现
+
 注：reg文件里的路径 "\" 需要用 "\\" 
+
