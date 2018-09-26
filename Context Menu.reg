@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+;文件夹右键同步
+;同步至Onedrive可以改为自定义名称
+;bat地址替换为自定义地址
+;图标替换为自定义地址
+[HKEY_CLASSES_ROOT\Directory\shell\同步至Onedrive\command]
+@="C:\\bat\\sync to personal.bat %1"
+
+[HKEY_CLASSES_ROOT\Directory\shell\同步至Onedrive]
+"Icon"="C:\\bat\\OneDriveUpload.ico"
