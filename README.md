@@ -2,6 +2,7 @@
 Context Menu for OneDrive to upload  folder in any place 
 
 任意位置同步文件夹至OneDrive。
+
 基本原理：在注册表里写一个文件夹的右键，调用bat文件。在bat文件中获取管理员权限，运行mklink命令，在OneDrive文件夹下创建同名符号链接。
 主要方法网上早有，只是需要手动输入命令有些繁琐，因此凑了一个bat出来方便操作。
 
