@@ -22,5 +22,5 @@ Context Menu for OneDrive to upload  folder in any place
 
 注：运行时有cmd窗口闪现
 
-注：reg文件里的路径需要用 "\\\" 
+注：reg文件里的路径需要用\\
 
